@@ -22,17 +22,17 @@ To create this Framework I have used,
 
 • Maven Project Structure & Update pom.xml with below dependencies  
 
-rest-assured  
-json-schema-validator   
-json-path  
-xml-path  
-java-hamcrest   
-hamcrest-core    
-hamcrest-library   
-commons-lang3  
-commons-io  
-fillo  
-TestNG  
+ rest-assured  
+ json-schema-validator   
+ json-path  
+ xml-path  
+ java-hamcrest   
+ hamcrest-core    
+ hamcrest-library   
+ commons-lang3  
+ commons-io  
+ fillo  
+ TestNG  
 
 
 • And Folder Structure looks like below  
